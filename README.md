@@ -24,7 +24,6 @@ Click on -> https://engineerverse.free.nf/
 
 ## 📷 Screenshots
 
-> Add screenshots of:
 - Homepage with header sectioin
 - [SignUp](https://github.com/user-attachments/assets/b50b5bce-45c5-4d2c-8965-c01f532d91d1)(signUp)
 - [SignIn](https://github.com/user-attachments/assets/deccc4c4-6262-4888-9e17-e4ce1c9e8a1d)(signIn)
