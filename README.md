@@ -26,8 +26,8 @@ Click on -> https://engineerverse.free.nf/
 
 > Add screenshots of:
 - Homepage with header sectioin
-- [SignUp](ttps://github.com/user-attachments/assets/b50b5bce-45c5-4d2c-8965-c01f532d91d1) (signUp)
-- [SignIn](https://github.com/user-attachments/assets/deccc4c4-6262-4888-9e17-e4ce1c9e8a1d)  (signIn)
+- [SignUp](ttps://github.com/user-attachments/assets/b50b5bce-45c5-4d2c-8965-c01f532d91d1)(signUp)
+- [SignIn](https://github.com/user-attachments/assets/deccc4c4-6262-4888-9e17-e4ce1c9e8a1d)(signIn)
 - Branch and its Trend @present
 - [Stream](https://github.com/user-attachments/assets/77293a66-18cc-47bc-ac80-d5e2342d094f)
 - [Trend](https://github.com/user-attachments/assets/7b0436ab-e11b-4d30-8e90-5dea38e9ce9b)
